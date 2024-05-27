@@ -16,8 +16,8 @@ A modern, stylish To-Do List application built with React. This app allows users
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
-   cd todo-list
+   git clone https://github.com/Akshit1507/To-Do-App.git
+   cd To-Do-App-main
    ```
 
 2. Install dependencies:
@@ -29,10 +29,10 @@ A modern, stylish To-Do List application built with React. This app allows users
 3. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-   The app should automatically open in your default browser at `http://localhost:3000`.
+   The app should automatically open in your default browser at `http://localhost:5173`.
 
 ## Usage
 
